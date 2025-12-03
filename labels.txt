@@ -1,0 +1,12 @@
+0 American Football
+1 Baseball
+2 Basketball
+3 Billiard Ball
+4 Bowling Ball
+5 Cricket Ball
+6 Football
+7 Golf Ball
+8 Shuttlecock
+9 Tennis Ball
+10 Volleyball
+11 Not a Ball
