@@ -32,7 +32,7 @@ sports balls quickly and accurately through a simple and user-friendly interface
 * Target SDK: Android 13 (API 33)
 * Permissions: Camera and Gallery access
 
-
+<br>
 
 ## How to Use
 
